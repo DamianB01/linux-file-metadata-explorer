@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/Damian/Desktop/UKEN/programowanie_systemowe/zadanie5/cmake-build-debug",
+  "command": "\"E:\\Program Files\\JetBrains\\CLion 2026.1.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\zadanie5.dir\\main.c.obj -c C:\\Users\\Damian\\Desktop\\UKEN\\programowanie_systemowe\\zadanie5\\main.c",
+  "file": "C:/Users/Damian/Desktop/UKEN/programowanie_systemowe/zadanie5/main.c",
+  "output": "C:/Users/Damian/Desktop/UKEN/programowanie_systemowe/zadanie5/cmake-build-debug/CMakeFiles/zadanie5.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/Damian/Desktop/UKEN/programowanie_systemowe/zadanie5/cmake-build-debug",
+  "command": "\"E:\\Program Files\\JetBrains\\CLion 2026.1.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\zadanie5.dir\\catalog_rec.c.obj -c C:\\Users\\Damian\\Desktop\\UKEN\\programowanie_systemowe\\zadanie5\\catalog_rec.c",
+  "file": "C:/Users/Damian/Desktop/UKEN/programowanie_systemowe/zadanie5/catalog_rec.c",
+  "output": "C:/Users/Damian/Desktop/UKEN/programowanie_systemowe/zadanie5/cmake-build-debug/CMakeFiles/zadanie5.dir/catalog_rec.c.obj"
+},
+{
+  "directory": "C:/Users/Damian/Desktop/UKEN/programowanie_systemowe/zadanie5/cmake-build-debug",
+  "command": "\"E:\\Program Files\\JetBrains\\CLion 2026.1.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\zadanie5.dir\\file_print.c.obj -c C:\\Users\\Damian\\Desktop\\UKEN\\programowanie_systemowe\\zadanie5\\file_print.c",
+  "file": "C:/Users/Damian/Desktop/UKEN/programowanie_systemowe/zadanie5/file_print.c",
+  "output": "C:/Users/Damian/Desktop/UKEN/programowanie_systemowe/zadanie5/cmake-build-debug/CMakeFiles/zadanie5.dir/file_print.c.obj"
+},
+{
+  "directory": "C:/Users/Damian/Desktop/UKEN/programowanie_systemowe/zadanie5/cmake-build-debug",
+  "command": "\"E:\\Program Files\\JetBrains\\CLion 2026.1.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\zadanie5.dir\\file_type.c.obj -c C:\\Users\\Damian\\Desktop\\UKEN\\programowanie_systemowe\\zadanie5\\file_type.c",
+  "file": "C:/Users/Damian/Desktop/UKEN/programowanie_systemowe/zadanie5/file_type.c",
+  "output": "C:/Users/Damian/Desktop/UKEN/programowanie_systemowe/zadanie5/cmake-build-debug/CMakeFiles/zadanie5.dir/file_type.c.obj"
+}
+]
